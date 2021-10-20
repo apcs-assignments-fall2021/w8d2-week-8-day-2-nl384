@@ -6,8 +6,8 @@ public class RationalClient {
 
         // We can use dot notation to access the integer values
         // of the numerator and denominator directly
-        System.out.println(r.numerator);
-        System.out.println(r.denominator);
+        System.out.println(r.numerator); // 1
+        System.out.println(r.denominator); // 2
 
         // A basic test for adding Rationals
         Rational s = new Rational(1, 3);
